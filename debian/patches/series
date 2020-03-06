@@ -1,0 +1,6 @@
+0001-local_inventory.patch
+0002-Fix-use-of-async-in-tests-test_async_keyword.py-so-b.patch
+0003-failing-tests.patch
+0004-Use-buildsystem-python-to-build-documentation.patch
+0005-Sphinx-workaround.patch
+0006-Sphinx-no-spanning-cells.patch
